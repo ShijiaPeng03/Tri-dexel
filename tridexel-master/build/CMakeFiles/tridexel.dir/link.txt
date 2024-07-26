@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtridexel.a  CMakeFiles/tridexel.dir/src/IO.cpp.o CMakeFiles/tridexel.dir/src/tridexel.cpp.o
+/usr/bin/ranlib libtridexel.a

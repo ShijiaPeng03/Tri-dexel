@@ -1,0 +1,4 @@
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/build/CMakeFiles/rebuild_cache.dir
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/build/CMakeFiles/edit_cache.dir
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/build/CMakeFiles/tests.dir
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/build/CMakeFiles/tridexel.dir

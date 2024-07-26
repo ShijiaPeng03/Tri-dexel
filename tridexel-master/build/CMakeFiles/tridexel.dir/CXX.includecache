@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/IO.cpp
+IO.h
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/IO.h
+fstream
+-
+
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/IO.h
+filesystem
+-
+../src/tridexel.h
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/tridexel.h
+
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/tridexel.cpp
+tridexel.h
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/tridexel.h
+IO.h
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/IO.h
+numeric
+-
+optional
+-
+string
+-
+
+/home/pc/桌面/tridexel-master（复件）/tridexel-master/src/tridexel.h
+glm/vec3.hpp
+-
+glm/geometric.hpp
+-
+vector
+-
+array
+-
+functional
+-
+
